@@ -92,7 +92,7 @@
                         <img src="images/seattle.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Seattle, Washington</h5>
-                            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                            <p class="card-text">Known for its coffee culture, grunge music scene, the Seahawks, the Space Needle, and Pike Place Market, Seattle is packed with fun!</p>
                         </div>
                     </a>
                 </div>
@@ -101,7 +101,7 @@
                         <img src="images/venice.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">Florence, Italy</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+                            <p class="card-text">Home to one of the most famous art galleries in the world, this city's culture and delicious cuisine make it very special!</p>
                         </div>
                     </a>
                 </div>
@@ -110,7 +110,7 @@
                         <img src="images/london.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">London, England</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+                            <p class="card-text">Visit the Tower of London, Buckingham Palace, Big Ben, and many other famous places in the United Kingdom's largest city!</p>
                         </div>
                     </a>
                 </div>
