@@ -1,0 +1,14 @@
+Database name: tourbooking
+
+Create table:
+$sql = "CREATE TABLE bookings (
+id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+firstname VARCHAR(30) NOT NULL,
+lastname VARCHAR(30) NOT NULL,
+email VARCHAR(50),
+groupsize VARCHAR(10),
+tourlocation VARCHAR(30),
+tourdate VARCHAR(30),
+tourtime VARCHAR(30),
+reg_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+)";
