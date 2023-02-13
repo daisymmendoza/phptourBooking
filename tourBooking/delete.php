@@ -9,7 +9,6 @@
         $query = "DELETE FROM bookings WHERE id = {$booking_id}"; 
         $delete_query= mysqli_query($conn, $query);
         header("Location:index.php");
-        die();
     }
 ?>
 
