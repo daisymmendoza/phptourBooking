@@ -29,19 +29,19 @@
                 <!-- First name -->
                 <div class="form-group">
                     <label for="firstname" class="form-label">First Name</label>
-                    <input type="text" name="firstname" class="form-control" autocomplete="off">
+                    <input type="text" name="firstname" class="form-control">
                 </div>
 
                 <!-- Last name -->
                 <div class="form-group">
                     <label for="lastname" class="form-label">Last Name</label>
-                    <input type="text" name="lastname" class="form-control" autocomplete="off">
+                    <input type="text" name="lastname" class="form-control">
                 </div>
 
                 <!-- Email -->
                 <div class="form-group">
                     <label for="email" class="form-label">Email</label>
-                    <input type="email" name="email" class="form-control" autocomplete="off">
+                    <input type="email" name="email" class="form-control">
                 </div>
 
                 <!-- Group size -->
